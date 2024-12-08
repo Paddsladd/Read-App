@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lasa",
-    "slug": "lasa",
+    "name": "Read Timer",
+    "slug": "Read Timer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
