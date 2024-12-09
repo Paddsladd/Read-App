@@ -2,4 +2,4 @@
 
 Just a bad app that i made to learn react native.
 
-#### $\textsf{\color{#2b2b2b}{(ignore shitty code.)}}$
+#### $\textsf{\color{#3f3f3f}{(ignore shitty code.)}}$
